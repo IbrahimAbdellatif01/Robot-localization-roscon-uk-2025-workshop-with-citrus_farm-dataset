@@ -1,4 +1,4 @@
-# ROSCon UK Workshop on State Estimation in ROS 2
+# ROSCon UK Workshop on State Estimation in ROS 2 (from the original repo)
 
 ## Introduction
 
@@ -105,4 +105,3 @@ Bag replay can be sped up or slowed down using the up and down arrow keys, respe
 
 #### [Task 8 - Writing a `fuse` Plugin](task8/README.md)
 
-# Robot-localization-roscon-uk-2025-workshop-with-citrus_farm-dataset
